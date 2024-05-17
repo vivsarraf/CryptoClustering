@@ -1,6 +1,5 @@
 # CryptoClustering Module 19 Challenge
-
-![crypto](https://github.com/vivsarraf/CryptoClustering/assets/135401654/40965934-86ae-4cda-9272-d4e97ff73a8c)
+![clustering-stock-markets-machine-learning-cryptocurrencies-blockchain-bitcoin-ethereum-min](https://github.com/vivsarraf/CryptoClustering/assets/135401654/4802b427-1617-4bfe-8c7e-8a7477ac33a1)
 
 
 
